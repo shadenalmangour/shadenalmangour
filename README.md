@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaden</h1>
-<h3 align="center">A passionate programmer developer from Saudi Arabia</h3>
+<h3 align="center">A passionate programmer from Saudi Arabia</h3>
 
 - 👩‍💻 I’m currently learning **Programming for Data Science**
 
